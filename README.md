@@ -61,7 +61,7 @@
 
    向下滚动到分隔线处；
    
-   ![ScreenShot](https://github.com/AliceInCradle-CN/Anti-Harmony/assets/62281844/cf2351a8-bc11-41e4-b917-12f29503498e)
+   ![ScreenShot](https://github.com/AliceInCradle-CN/Anti-Harmony/assets/62281844/7b007ac4-2165-42ed-9d22-68ba6e6c9a71)
 
    右键分隔线上方的代码，并点击 `编辑类(C#)...`；
 
